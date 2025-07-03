@@ -2,7 +2,7 @@
 
 🚀 Passionné par le **développement web** et les **nouvelles technologies**, je termine actuellement une formation de **Développeur Web et Web Mobile**.
 
-🎯 Mon objectif : rejoindre une **ESN** ou une **entreprise innovante** en tant que **développeur web** (back-end ou full-stack), pour concevoir des applications **modernes**, **performantes** et **centrées sur l'utilisateur**.
+🎯 Mon objectif ? Concevoir des applications **modernes**, **performantes** et **centrées sur l'utilisateur**, en combinant mes compétences **techniques** et mon **esprit analytique**.
 
 ---
 
@@ -32,6 +32,17 @@ Ce qui me motive au quotidien :
 - Sécurité Web
 
 ---
+
+## 🧩 Projets principaux
+
+| Projet | Description | Technologies |
+|--------|-------------|--------------|
+| [📌 Sessions](https://github.com/IvanVeltz/Sessions) | Sessions est une application web développée avec Symfony 7, destinée à faciliter la gestion complète des formations en entreprise ou organisme de formation.Elle permet de gérer les catégories de formation, les formations, les sessions, les formateurs et les stagiaires, de manière simple et efficace. | HTML, CSS, PHP (Symfony), Twig, Bootstrap, MySQL |
+| [📌 Cinema](https://github.com/IvanVeltz/Cinema) | Application web de gestion de films utilisant le design pattern MVC (Model-View-Controller). L'application permet de gérer un ensemble de films, d'acteurs, de réalisateurs et de catégories. Elle offre des fonctionnalités complètes comme l'ajout, la modification, la suppression d'entités. | HTML, CCS3, PHP, JS, MySQL |
+| [📌 BeerGarden](https://github.com/IvanVeltz/BeerGarden) | Ce projet est la page d'accueil de BeerGarden, un site web moderne et accueillant, conçu pour capturer l'esprit convivial et chaleureux d'un pub et bar à bière. | HTML, CSS, Google Fonts, Font Awesome, Google Maps Embed |
+
+---
+
 
 ## 💼 Ce que je recherche
 
